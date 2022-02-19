@@ -1,2 +1,1 @@
-# PragmatechCsharpProject
-PragmatechCsharpProject
+# Blog Application
